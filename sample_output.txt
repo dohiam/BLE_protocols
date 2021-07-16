@@ -1,0 +1,987 @@
+action start_HCI returned true
+action start_directed_scan returned true
+DBUG 1877     (1877) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 1889     (12 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 1914     (25 ) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 1987     (73 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 1998     (11 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 2132     (134) Device Address info->bdaddr Address = 60:AB:D2::D8:44
+DBUG 2180     (48 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 2195     (15 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 2208     (13 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 2223     (15 ) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 2354     (131) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 2582     (228) Device Address info->bdaddr Address = DD:33:0A:11:1B:AC
+DBUG 2594     (12 ) Device Address info->bdaddr Address = DD:33:0A:11:1B:AC
+DBUG 2684     (90 ) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 2697     (13 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 2711     (14 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 2725     (14 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 2744     (19 ) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 3240     (496) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 3252     (12 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 3303     (51 ) Device Address info->bdaddr Address = DF:C2:3F:EF:E2:0F
+DBUG 3449     (146) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 3566     (117) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 3613     (47 ) Device Address info->bdaddr Address = DD:33:0A:11:1B:AC
+DBUG 3795     (182) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 3813     (18 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 3832     (19 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 3845     (13 ) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 4343     (498) Device Address info->bdaddr Address = 60:AB:D264:D8:44
+DBUG 4392     (49 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 4406     (14 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 4645     (239) Device Address info->bdaddr Address = DD:33:0A:11:1B:AC
+DBUG 4889     (244) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 4913     (24 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 4925     (12 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 4943     (18 ) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 5228     (285) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 5311     (83 ) Device Address info->bdaddr Address = DF:C2:3F:EF:E2:0F
+DBUG 5435     (124) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 5450     (15 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 5462     (12 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 5476     (14 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 5490     (14 ) Device Address info->bdaddr Address = 3E:0A:FA:89:8867
+DBUG 5542     (52 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 5677     (135) Device Address info->bdaddr Address = DD:33:0A:11:1B:AC
+DBUG 5689     (12 ) Device Address info->bdaddr Address = DD:33:0A:11:1B:AC
+DBUG 12054    (6365) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 12065    (11 ) Device Address info->bdaddr Address = 60:AB:D2:64:D8:44
+DBUG 12080    (15 ) Device Address info->bdaddr Address = 14:99:E2:0D:04:0C
+DBUG 12093    (13 ) Device Address info->bdaddr Address = DC:0D:30:03:2F:95
+DBUG 12107    (14 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 12122    (15 ) Device Address info->bdaddr Address = 5E:B4:48:39:22:CB
+DBUG 12135    (13 ) Device Address info->bdaddr Address = 3E:0A:FA:89:88:67
+DBUG 12150    (15 ) GAP_GENERAL_DISCOVERY_PROC complete
+DBUG 12152    (2  ) procedure_complete_pckt->status=00 (status code from procedure complete)
+DBUG 12157    (5  ) procedure_complete_pckt->data: CB:22:39:48:B4:5E:00:B5:01:06:03:03:AA:FE:13:16:AA:FE:10:D4:03:67:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:CE:54:5F:E5:BB:00:
+general discovery ended
+
+------------------- ADDR LIST ---------------------------
+  CONNECTABLE        PUBLIC ADDR           ADDR
+ -------------     ---------------     ------------------
+   CONNECTABLE         NOT PUBLIC       5E:B4:48:39:22:CB
+       BOTH            NOT PUBLIC       3E:0A:FA:89:88:67
+   CONNECTABLE            PUBLIC        14:99:E2:0D:04:0C
+   CONNECTABLE            PUBLIC        60:AB:D2:64:D8:44
+   CONNECTABLE            PUBLIC        DC:0D:30:03:2F:95
+   CONNECTABLE            PUBLIC        DD:33:0A:11:1B:AC
+   CONNECTABLE             BOTH         DF:C2:3F:EF:E2:0F
+==================END OF ADDR LIST=======================
+DBUG 12261    (104) creating connection for (*addr) Address = 14:99:E2:0D:04:0C
+DBUG 12276    (15 ) Create Connection succeeded.
+DBUG 12277    (1  ) connection for (*addr) Address = 14:99:E2:0D:04:0C
+action start_connection returned true
+DBUG 12423    (146) ----------------------------------------------------------
+DBUG 12424    (1  ) pckt: 04:FF:04:07:04:40:00:67:88:89:FA:0A:3E:1F:02:01:1A:03:03:6F:FD:17:16:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 12465    (41 ) event_pckt: FF:04:07:04:40:00:67:88:89:FA:0A:3E:1F:02:01:1A:03:03:6F:FD:17:16:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 12507    (42 ) event_pckt->evt=255 (event code)
+DBUG 12513    (6  ) evt_blue->ecode=0407 (ecode for HCI events)
+DBUG 12518    (5  ) EVT_BLUE_GAP_PROCEDURE_COMPLETE
+DBUG 12521    (3  ) GAP_DIRECT_CONNECTION_ESTABLISHMENT_PROC complete
+DBUG 12524    (3  ) procedure_complete_pckt->status=00 (status code from procedure complete)
+DBUG 12529    (5  ) procedure_complete_pckt->data: 67:88:89:FA:0A:3E:1F:02:01:1A:03:03:6F:FD:17:16:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:33:E7:54:5F:E5:B6:00:
+DBUG 12570    (41 ) current production ran a rule
+DBUG 12574    (4  ) ----------------------------------------------------------
+DBUG 12577    (3  ) pckt: 04:3E:13:01:00:01:08:00:00:0C:04:0D:E2:99:14:28:00:00:00:3C:00:00:16:AA:FE:10:D4:03:67:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 12618    (41 ) connection created successfully
+DBUG 12621    (3  ) *connection_handle=2049 (returned by get_connection_handle)
+DBUG 12626    (5  ) current production finished
+starting discovery primary services
+DBUG 12632    (6  ) discover all primary services succeeded.
+action discover_primary_services returned true
+DBUG 12688    (56 ) ----------------------------------------------------------
+DBUG 12689    (1  ) pckt: 04:FF:12:0A:0C:01:08:0D:06:01:00:05:00:00:18:06:00:09:00:01:18:17:16:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 12731    (42 ) read_by_group_type_response->conn_handle=2049 (read_by_group_type_response for handle)
+DBUG 12736    (5  ) attribute list:
+DBUG 12739    (3  ) attribute attr_start size: 6, Bytes = 01:00:05:00:00:18
+DBUG 12754    (15 ) attribute attr_start size: 6, Bytes = 06:00:09:00:01:18
+DBUG 12769    (15 ) attribute attr_start size: 6, Bytes = 17:16:6F:FD:23:D2
+DBUG 12783    (14 ) current production ran a rule
+DBUG 12788    (5  ) ----------------------------------------------------------
+DBUG 12789    (1  ) pckt: 04:FF:1A:0A:0C:01:08:15:14:0A:00:0E:00:66:43:AE:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 12831    (42 ) read_by_group_type_response->conn_handle=2049 (read_by_group_type_response for handle)
+DBUG 12836    (5  ) attribute list:
+DBUG 12839    (3  ) attribute attr_start size: 20, Bytes = 0A:00:0E:00:66:43:AE:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0
+DBUG 12882    (43 ) attribute attr_start size: 20, Bytes = 6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:CE:54:5F:E5:BB:00:00:00
+DBUG 12926    (44 ) current production ran a rule
+DBUG 12929    (3  ) ----------------------------------------------------------
+DBUG 12932    (3  ) pckt: 04:FF:09:11:0C:01:08:04:10:0E:00:0A:00:00:18:06:00:09:00:01:18:17:16:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 12973    (41 ) event_pckt: FF:09:11:0C:01:08:04:10:0E:00:0A:00:00:18:06:00:09:00:01:18:17:16:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 13016    (43 ) event_pckt->evt=255 (event code)
+DBUG 13021    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 13026    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 13029    (3  ) current production ran a rule
+DBUG 13032    (3  ) ----------------------------------------------------------
+DBUG 13035    (3  ) pckt: 04:FF:06:10:0C:01:08:01:00:0A:00:0E:00:66:43:AE:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 13077    (42 ) event_pckt: FF:06:10:0C:01:08:01:00:0A:00:0E:00:66:43:AE:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 13118    (41 ) event_pckt->evt=255 (event code)
+DBUG 13123    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 13128    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 13131    (3  ) current production finished
+starting discovery of characteristics
+DBUG 13137    (6  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 13238    (101) ----------------------------------------------------------
+DBUG 13239    (1  ) pckt: 04:FF:14:06:0C:01:08:0F:07:02:00:02:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 13281    (42 ) read_by_type_resp->conn_handle=2049 (evt_att_read_by_type_resp for handle)
+DBUG 13286    (5  ) attribute list:
+DBUG 13289    (3  ) attribute attr_start size: 7, Bytes = 02:00:02:03:00:00:2A
+DBUG 13306    (17 ) attribute attr_start size: 7, Bytes = 04:00:02:05:00:01:2A
+DBUG 13323    (17 ) attribute attr_start size: 7, Bytes = 6F:FD:23:D2:2C:3B72
+DBUG 13377    (54 ) current production ran a rule
+DBUG 13380    (3  ) ----------------------------------------------------------
+DBUG 13383    (3  ) pckt: 04:FF:09:11:0C:01:08:04:08:05:00:0A:00:66:43:AE:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 13425    (42 ) event_pckt: FF:09:11:0C:01:08:04:08:05:00:0A:00:66:43:AE:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 13466    (41 ) event_pckt->evt=255 (event code)
+DBUG 13471    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 13476    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 13479    (3  ) current production ran a rule
+DBUG 13483    (4  ) ----------------------------------------------------------
+DBUG 13485    (2  ) pckt: 04:FF:06:10:0C:01:08:01:00:02:00:02:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 13527    (42 ) event_pckt: FF:06:10:0C:01:08:01:00:02:00:02:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 13569    (42 ) event_pckt->evt=255 (event code)
+DBUG 13574    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 13579    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 13582    (3  ) current production finished
+starting discovery of characteristics
+DBUG 13587    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 13688    (101) ----------------------------------------------------------
+DBUG 13689    (1  ) pckt: 04:FF:0D:06:0C:01:08:08:07:07:00:20:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 13731    (42 ) read_by_type_resp->conn_handle=2049 (evt_att_read_by_type_resp for handle)
+DBUG 13736    (5  ) attribute list:
+DBUG 13739    (3  ) attribute attr_start size: 7, Bytes = 07:00:20:08:00:05:2A
+DBUG 13756    (17 ) attribute attr_start size: 7, Bytes = 10:79:48:F8:A5:91:45
+DBUG 13773    (17 ) current production ran a rule
+DBUG 13838    (65 ) ----------------------------------------------------------
+DBUG 13839    (1  ) pckt: 04:FF:09:11:0C:01:08:04:08:09:00:0A:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 13881    (42 ) event_pckt: FF:09:11:0C:01:08:04:08:09:00:0A:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 13923    (42 ) event_pckt->evt=255 (event code)
+DBUG 13928    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 13933    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 13936    (3  ) current production ran a rule
+DBUG 13939    (3  ) ----------------------------------------------------------
+DBUG 13942    (3  ) pckt: 04:FF:06:10:0C:01:08:01:00:07:00:20:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 13984    (42 ) event_pckt: FF:06:10:0C:01:08:01:00:07:00:20:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 14026    (42 ) event_pckt->evt=255 (event code)
+DBUG 14031    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 14036    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 14039    (3  ) current production finished
+starting discovery of characteristics
+DBUG 14044    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 14138    (94 ) ----------------------------------------------------------
+DBUG 14139    (1  ) pckt: 04:FF:09:11:0C:01:08:04:08:17:16:0A:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 14181    (42 ) event_pckt: FF:09:11:0C:01:08:04:08:17:16:0A:03:00:00:2A:04:00:02:05:00:01:2A:6F:FD:23:D2:2C:3B:72:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 14223    (42 ) event_pckt->evt=255 (event code)
+DBUG 14228    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 14233    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 14236    (3  ) current production ran a rule
+DBUG 14239    (3  ) ----------------------------------------------------------
+DBUG 14242    (3  ) pckt: 04:FF:06:10:0C:01:08:01:00:07:00:20:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 14284    (42 ) event_pckt: FF:06:10:0C:01:08:01:00:07:00:20:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 14326    (42 ) event_pckt->evt=255 (event code)
+DBUG 14331    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 14336    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 14339    (3  ) current production finished
+starting discovery of characteristics
+DBUG 14344    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 14438    (94 ) ----------------------------------------------------------
+DBUG 14439    (1  ) pckt: 04:FF:1B:06:0C:01:08:16:15:0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 14481    (42 ) read_by_type_resp->conn_handle=2049 (evt_att_read_by_type_resp for handle)
+DBUG 14486    (5  ) attribute list:
+DBUG 14489    (3  ) attribute attr_start size: 21, Bytes = 0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86
+DBUG 14534    (45 ) attribute attr_start size: 21, Bytes = FD:D5:01:21:95:DC:AB:55:68:45:33:E7:54:5F:E5:B6:00:00:00:00:00
+DBUG 14579    (45 ) current production ran a rule
+DBUG 14582    (3  ) ----------------------------------------------------------
+DBUG 14585    (3  ) pckt: 04:FF:09:11:0C:01:08:04:08:0E:00:0A:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 14627    (42 ) event_pckt: FF:09:11:0C:01:08:04:08:0E:00:0A:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 14669    (42 ) event_pckt->evt=255 (event code)
+DBUG 14674    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 14679    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 14682    (3  ) current production ran a rule
+DBUG 14685    (3  ) ----------------------------------------------------------
+DBUG 14688    (3  ) pckt: 04:FF:06:10:0C:01:08:01:00:0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 14730    (42 ) event_pckt: FF:06:10:0C:01:08:01:00:0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 14772    (42 ) event_pckt->evt=255 (event code)
+DBUG 14777    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 14782    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 14785    (3  ) current production finished
+terminating connection
+DBUG 14790    (5  ) Terminate Connection succeeded.
+action terminate_connection returned true
+DBUG 14837    (47 ) ----------------------------------------------------------
+DBUG 14839    (2  ) pckt: 04:05:04:00:01:08:16:04:08:0E:00:0A:08:00:05:2A:10:79:48:F8:A5:91:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 14881    (42 ) current production finished
+DBUG 14884    (3  ) disconnection_complete_pckt->status=C0 (Disconnection unsuccessful.)
+gatt_walk_protocol ended
+DBUG 14890    (6  ) creating connection for (*addr) Address = 60:AB:D2:64:D8:44
+DBUG 14905    (15 ) Create Connection succeeded.
+DBUG 14907    (2  ) connection for (*addr) Address = 60:AB:D2:64:D8:44
+action start_connection returned true
+DBUG 15356    (449) ----------------------------------------------------------
+DBUG 15358    (2  ) pckt: 04:FF:04:07:04:40:00:01:00:0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 15400    (42 ) event_pckt: FF:04:07:04:40:00:01:00:0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 15442    (42 ) event_pckt->evt=255 (event code)
+DBUG 15447    (5  ) evt_blue->ecode=0407 (ecode for HCI events)
+DBUG 15452    (5  ) EVT_BLUE_GAP_PROCEDURE_COMPLETE
+DBUG 15455    (3  ) GAP_DIRECT_CONNECTION_ESTABLISHMENT_PROC complete
+DBUG 15458    (3  ) procedure_complete_pckt->status=00 (status code from procedure complete)
+DBUG 15463    (5  ) procedure_complete_pckt->data: 01:00:0B:00:98:0C:00:49:00:D9:27:EE:54:ED:84:91:4C:37:9A:6C:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:33:E7:54:5F:E5:B6:00:
+DBUG 15505    (42 ) current production ran a rule
+DBUG 15508    (3  ) ----------------------------------------------------------
+DBUG 15511    (3  ) pckt: 04:3E:13:01:00:02:08:00:00:44:D8:64:D2:AB:60:28:00:00:00:3C:00:00:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 15553    (42 ) connection created successfully
+DBUG 15556    (3  ) *connection_handle=2050 (returned by get_connection_handle)
+DBUG 15561    (5  ) current production finished
+starting discovery primary services
+DBUG 15566    (5  ) discover all primary services succeeded.
+action discover_primary_services returned true
+DBUG 15668    (102) ----------------------------------------------------------
+DBUG 15669    (1  ) pckt: 04:FF:18:0A:0C:02:08:13:06:01:00:09:00:BE:FE:0A:00:0D:00:01:18:0E:00:12:00:00:18:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 15711    (42 ) read_by_group_type_response->conn_handle=2050 (read_by_group_type_response for handle)
+DBUG 15716    (5  ) attribute list:
+DBUG 15719    (3  ) attribute attr_start size: 6, Bytes = 01:00:09:00:BE:FE
+DBUG 15734    (15 ) attribute attr_start size: 6, Bytes = 0A:00:0D:00:01:18
+DBUG 15749    (15 ) attribute attr_start size: 6, Bytes = 0E:00:12:00:00:18
+DBUG 15764    (15 ) attribute attr_start size: 6, Bytes = 55:67:86:FD:D5:01
+DBUG 15779    (15 ) current production ran a rule
+DBUG 15782    (3  ) ----------------------------------------------------------
+DBUG 15785    (3  ) pckt: 04:FF:0C:0A:0C:02:08:07:06:13:00:FF:FF:0A:18:28:00:00:00:3C:00:00:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 15827    (42 ) read_by_group_type_response->conn_handle=2050 (read_by_group_type_response for handle)
+DBUG 15832    (5  ) attribute list:
+DBUG 15835    (3  ) attribute attr_start size: 6, Bytes = 13:00:FF:FF:0A:18
+DBUG 15850    (15 ) attribute attr_start size: 6, Bytes = 28:00:00:00:3C:00
+DBUG 15865    (15 ) current production ran a rule
+DBUG 15868    (3  ) ----------------------------------------------------------
+DBUG 15871    (3  ) pckt: 04:FF:09:11:0C:02:08:04:10:14:00:0A:00:BE:FE:0A:00:0D:00:01:18:0E:00:12:00:00:18:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 15913    (42 ) event_pckt: FF:09:11:0C:02:08:04:10:14:00:0A:00:BE:FE:0A:00:0D:00:01:18:0E:00:12:00:00:18:55:67:86:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 15955    (42 ) event_pckt->evt=255 (event code)
+DBUG 15960    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 15965    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 15968    (3  ) current production ran a rule
+DBUG 15971    (3  ) ----------------------------------------------------------
+DBUG 15974    (3  ) pckt: 04:FF:06:10:0C:02:08:01:00:13:00:FF:FF:0A:18:28:00:00:00:3C:00:00:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 16016    (42 ) event_pckt: FF:06:10:0C:02:08:01:00:13:00:FF:FF:0A:18:28:00:00:00:3C:00:00:45:B4:BB:78:1E:61:D0:6F:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 16058    (42 ) event_pckt->evt=255 (event code)
+DBUG 16063    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 16068    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 16071    (3  ) current production finished
+starting discovery of characteristics
+DBUG 16076    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 16168    (92 ) ----------------------------------------------------------
+DBUG 16169    (1  ) pckt: 04:FF:1B:06:0C:02:08:16:15:02:00:12:03:00:33:77:10:E9:F0:A4:A8:93:90:40:6B:25:B4:13:C8:9E:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 16211    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 16216    (5  ) attribute list:
+DBUG 16219    (3  ) attribute attr_start size: 21, Bytes = 02:00:12:03:00:33:77:10:E9:F0:A4:A8:93:90:40:6B:25:B4:13:C8:9E
+DBUG 16264    (45 ) attribute attr_start size: 21, Bytes = FD:D5:01:21:95:DC:AB:55:68:45:33:E7:54:5F:E5:B6:00:00:00:00:00
+DBUG 16309    (45 ) current production ran a rule
+DBUG 16312    (3  ) ----------------------------------------------------------
+DBUG 16315    (3  ) pckt: 04:FF:1B:06:0C:02:08:16:15:05:00:1E:06:00:91:45:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 16357    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 16362    (5  ) attribute list:
+DBUG 16365    (3  ) attribute attr_start size: 21, Bytes = 05:00:1E:06:00:91:45:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4
+DBUG 16410    (45 ) attribute attr_start size: 21, Bytes = 6F:2E:67:6C:2F:50:48:4E:53:64:6D:CE:54:5F:E5:BB:00:00:00:00:00
+DBUG 16455    (45 ) current production ran a rule
+DBUG 16458    (3  ) ----------------------------------------------------------
+DBUG 16461    (3  ) pckt: 04:FF:1B:06:0C:02:08:16:15:08:00:08:09:00:8D:B7:D4:20:36:72:FE:A3:36:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 16503    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 16508    (5  ) attribute list:
+DBUG 16511    (3  ) attribute attr_start size: 21, Bytes = 08:00:08:09:00:8D:B7:D4:20:36:72:FE:A3:36:45:B3:E3:D5:FB:4B:23
+DBUG 16556    (45 ) attribute attr_start size: 21, Bytes = FD:D5:01:21:95:DC:AB:55:68:45:33:E7:54:5F:E5:B6:00:00:00:00:00
+DBUG 16601    (45 ) current production ran a rule
+DBUG 16604    (3  ) ----------------------------------------------------------
+DBUG 16607    (3  ) pckt: 04:FF:09:11:0C:02:08:04:08:09:00:0A:06:00:91:45:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 16649    (42 ) event_pckt: FF:09:11:0C:02:08:04:08:09:00:0A:06:00:91:45:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 16691    (42 ) event_pckt->evt=255 (event code)
+DBUG 16696    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 16701    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 16704    (3  ) current production ran a rule
+DBUG 16707    (3  ) ----------------------------------------------------------
+DBUG 16710    (3  ) pckt: 04:FF:06:10:0C:02:08:01:00:08:00:08:09:00:8D:B7:D4:20:36:72:FE:A3:36:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 16752    (42 ) event_pckt: FF:06:10:0C:02:08:01:00:08:00:08:09:00:8D:B7:D4:20:36:72:FE:A3:36:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 16794    (42 ) event_pckt->evt=255 (event code)
+DBUG 16799    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 16804    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 16807    (3  ) current production finished
+starting discovery of characteristics
+DBUG 16812    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 16868    (56 ) ----------------------------------------------------------
+DBUG 16869    (1  ) pckt: 04:FF:0D:06:0C:02:08:08:07:0B:00:20:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 16911    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 16916    (5  ) attribute list:
+DBUG 16919    (3  ) attribute attr_start size: 7, Bytes = 0B:00:20:0C:00:05:2A
+DBUG 16936    (17 ) attribute attr_start size: 7, Bytes = 07:9D:C0:2A:D1:99:54
+DBUG 16953    (17 ) current production ran a rule
+DBUG 16968    (15 ) ----------------------------------------------------------
+DBUG 16969    (1  ) pckt: 04:FF:09:11:0C:02:08:04:08:0C:00:0A:09:00:8D:B7:D4:20:36:72:FE:A3:36:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 17011    (42 ) event_pckt: FF:09:11:0C:02:08:04:08:0C:00:0A:09:00:8D:B7:D4:20:36:72:FE:A3:36:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 17053    (42 ) event_pckt->evt=255 (event code)
+DBUG 17058    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 17063    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 17066    (3  ) current production ran a rule
+DBUG 17069    (3  ) ----------------------------------------------------------
+DBUG 17072    (3  ) pckt: 04:FF:06:10:0C:02:08:01:00:0B:00:20:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 17114    (42 ) event_pckt: FF:06:10:0C:02:08:01:00:0B:00:20:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 17156    (42 ) event_pckt->evt=255 (event code)
+DBUG 17161    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 17166    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 17169    (3  ) current production finished
+starting discovery of characteristics
+DBUG 17174    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 17268    (94 ) ----------------------------------------------------------
+DBUG 17269    (1  ) pckt: 04:FF:14:06:0C:02:08:0F:07:0F:00:02:10:00:00:2A:11:00:02:12:00:01:2A:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 17311    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 17316    (5  ) attribute list:
+DBUG 17319    (3  ) attribute attr_start size: 7, Bytes = 0F:00:02:10:00:00:2A
+DBUG 17336    (17 ) attribute attr_start size: 7, Bytes = 11:00:02:12:00:01:2A
+DBUG 17353    (17 ) attribute attr_start size: 7, Bytes = 45:B3:E3:D5:FB:4B:23
+DBUG 17370    (17 ) current production ran a rule
+DBUG 17373    (3  ) ----------------------------------------------------------
+DBUG 17376    (3  ) pckt: 04:FF:09:11:0C:02:08:04:08:12:00:0A:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 17418    (42 ) event_pckt: FF:09:11:0C:02:08:04:08:12:00:0A:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 17460    (42 ) event_pckt->evt=255 (event code)
+DBUG 17465    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 17470    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 17473    (3  ) current production ran a rule
+DBUG 17476    (3  ) ----------------------------------------------------------
+DBUG 17479    (3  ) pckt: 04:FF:06:10:0C:02:08:01:00:0F:00:02:10:00:00:2A:11:00:02:12:00:01:2A:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 17521    (42 ) event_pckt: FF:06:10:0C:02:08:01:00:0F:00:02:10:00:00:2A:11:00:02:12:00:01:2A:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 17563    (42 ) event_pckt->evt=255 (event code)
+DBUG 17568    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 17573    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 17576    (3  ) current production finished
+starting discovery of characteristics
+DBUG 17581    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 17667    (86 ) ----------------------------------------------------------
+DBUG 17668    (1  ) pckt: 04:FF:09:11:0C:02:08:04:08:55:67:0A:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 17710    (42 ) event_pckt: FF:09:11:0C:02:08:04:08:55:67:0A:0C:00:05:2A:07:9D:C0:2A:D1:99:54:43:18:98:28:C0:17:D4:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 17752    (42 ) event_pckt->evt=255 (event code)
+DBUG 17757    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 17762    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 17765    (3  ) current production ran a rule
+DBUG 17768    (3  ) ----------------------------------------------------------
+DBUG 17771    (3  ) pckt: 04:FF:06:10:0C:02:08:01:00:0F:00:02:10:00:00:2A:11:00:02:12:00:01:2A:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 17813    (42 ) event_pckt: FF:06:10:0C:02:08:01:00:0F:00:02:10:00:00:2A:11:00:02:12:00:01:2A:45:B3:E3:D5:FB:4B:23:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 17855    (42 ) event_pckt->evt=255 (event code)
+DBUG 17860    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 17865    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 17868    (3  ) current production finished
+starting discovery of characteristics
+DBUG 17873    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 17968    (95 ) ----------------------------------------------------------
+DBUG 17969    (1  ) pckt: 04:FF:1B:06:0C:02:08:16:07:14:00:02:15:00:29:2A:16:00:02:17:00:24:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 18011    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 18016    (5  ) attribute list:
+DBUG 18019    (3  ) attribute attr_start size: 7, Bytes = 14:00:02:15:00:29:2A
+DBUG 18036    (17 ) attribute attr_start size: 7, Bytes = 16:00:02:17:00:24:2A
+DBUG 18053    (17 ) attribute attr_start size: 7, Bytes = 18:00:02:19:00:25:2A
+DBUG 18070    (17 ) attribute attr_start size: 7, Bytes = 6F:2E:67:6C:2F:50:48
+DBUG 18087    (17 ) current production ran a rule
+DBUG 18090    (3  ) ----------------------------------------------------------
+DBUG 18093    (3  ) pckt: 04:FF:1B:06:0C:02:08:16:07:1A:00:02:1B:00:27:2A:1C:00:02:1D:00:26:2A:1E:00:02:1F:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 18135    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 18140    (5  ) attribute list:
+DBUG 18143    (3  ) attribute attr_start size: 7, Bytes = 1A:00:02:1B:00:27:2A
+DBUG 18160    (17 ) attribute attr_start size: 7, Bytes = 1C:00:02:1D:00:26:2A
+DBUG 18177    (17 ) attribute attr_start size: 7, Bytes = 1E:00:02:1F:00:28:2A
+DBUG 18194    (17 ) attribute attr_start size: 7, Bytes = FD:D5:01:21:95:DC:AB
+DBUG 18211    (17 ) current production ran a rule
+DBUG 18214    (3  ) ----------------------------------------------------------
+DBUG 18217    (3  ) pckt: 04:FF:14:06:0C:02:08:0F:07:20:00:02:21:00:23:2A:22:00:02:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 18259    (42 ) read_by_type_resp->conn_handle=2050 (evt_att_read_by_type_resp for handle)
+DBUG 18264    (5  ) attribute list:
+DBUG 18267    (3  ) attribute attr_start size: 7, Bytes = 20:00:02:21:00:23:2A
+DBUG 18284    (17 ) attribute attr_start size: 7, Bytes = 22:00:02:23:00:50:2A
+DBUG 18301    (17 ) attribute attr_start size: 7, Bytes = 18:00:02:19:00:25:2A
+DBUG 18318    (17 ) current production ran a rule
+DBUG 18321    (3  ) ----------------------------------------------------------
+DBUG 18324    (3  ) pckt: 04:FF:09:11:0C:02:08:04:08:23:00:0A:1B:00:27:2A:1C:00:02:1D:00:26:2A:1E:00:02:1F:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 18366    (42 ) event_pckt: FF:09:11:0C:02:08:04:08:23:00:0A:1B:00:27:2A:1C:00:02:1D:00:26:2A:1E:00:02:1F:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 18408    (42 ) event_pckt->evt=255 (event code)
+DBUG 18413    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 18418    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 18421    (3  ) current production ran a rule
+DBUG 18424    (3  ) ----------------------------------------------------------
+DBUG 18427    (3  ) pckt: 04:FF:06:10:0C:02:08:01:00:20:00:02:21:00:23:2A:22:00:02:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 18469    (42 ) event_pckt: FF:06:10:0C:02:08:01:00:20:00:02:21:00:23:2A:22:00:02:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 18511    (42 ) event_pckt->evt=255 (event code)
+DBUG 18516    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 18521    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 18524    (3  ) current production finished
+terminating connection
+DBUG 18529    (5  ) Terminate Connection succeeded.
+action terminate_connection returned true
+DBUG 18567    (38 ) ----------------------------------------------------------
+DBUG 18568    (1  ) pckt: 04:05:04:00:02:08:16:04:08:23:00:0A:1B:00:27:2A:1C:00:02:1D:00:26:2A:1E:00:02:1F:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 18610    (42 ) current production finished
+DBUG 18613    (3  ) disconnection_complete_pckt->status=C0 (Disconnection unsuccessful.)
+gatt_walk_protocol ended
+DBUG 18619    (6  ) creating connection for (*addr) Address = DC:0D:30:03:2F:95
+DBUG 18635    (16 ) Create Connection succeeded.
+DBUG 18636    (1  ) connection for (*addr) Address = DC:0D:30:03:2F:95
+action start_connection returned true
+DBUG 18681    (45 ) ----------------------------------------------------------
+DBUG 18682    (1  ) pckt: 04:FF:04:07:04:40:00:01:00:20:00:02:21:00:23:2A:22:00:02:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 18724    (42 ) event_pckt: FF:04:07:04:40:00:01:00:20:00:02:21:00:23:2A:22:00:02:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 18766    (42 ) event_pckt->evt=255 (event code)
+DBUG 18771    (5  ) evt_blue->ecode=0407 (ecode for HCI events)
+DBUG 18776    (5  ) EVT_BLUE_GAP_PROCEDURE_COMPLETE
+DBUG 18779    (3  ) GAP_DIRECT_CONNECTION_ESTABLISHMENT_PROC complete
+DBUG 18782    (3  ) procedure_complete_pckt->status=00 (status code from procedure complete)
+DBUG 18787    (5  ) procedure_complete_pckt->data: 01:00:20:00:02:21:00:23:2A:22:00:02:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:CE:54:5F:E5:BB:00:
+DBUG 18829    (42 ) current production ran a rule
+DBUG 18832    (3  ) ----------------------------------------------------------
+DBUG 18835    (3  ) pckt: 04:3E:13:01:00:03:08:00:00:95:2F:03:30:0D:DC:28:00:00:00:3C:00:00:2A:1E:00:02:1F:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 18877    (42 ) connection created successfully
+DBUG 18880    (3  ) *connection_handle=2051 (returned by get_connection_handle)
+DBUG 18885    (5  ) current production finished
+starting discovery primary services
+DBUG 18989    (104) discover all primary services had a timeout, continuing.
+action discover_primary_services returned true
+DBUG 18990    (1  ) ----------------------------------------------------------
+DBUG 18993    (3  ) pckt: 04:FF:10:02:08:03:08:0B:2F:08:00:40:00:80:00:03:00:F4:01:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 19035    (42 ) Responding to connection update request
+DBUG 19039    (4  ) Create Connection update response succeeded.
+DBUG 19041    (2  ) current production ran a rule
+DBUG 19096    (55 ) ----------------------------------------------------------
+DBUG 19097    (1  ) pckt: 04:FF:0C:0A:0C:03:08:07:06:13:00:FF:FF:0A:18:0A:00:0A:00:01:18:0B:00:12:00:F0:FF:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 19139    (42 ) read_by_group_type_response->conn_handle=2051 (read_by_group_type_response for handle)
+DBUG 19144    (5  ) attribute list:
+DBUG 19147    (3  ) attribute attr_start size: 6, Bytes = 13:00:FF:FF:0A:18
+DBUG 19162    (15 ) attribute attr_start size: 6, Bytes = 0A:00:0A:00:01:18
+DBUG 19177    (15 ) current production ran a rule
+DBUG 19196    (19 ) ----------------------------------------------------------
+DBUG 19197    (1  ) pckt: 04:FF:09:11:0C:03:08:04:10:14:00:0A:00:80:00:03:00:F4:01:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 19239    (42 ) event_pckt: FF:09:11:0C:03:08:04:10:14:00:0A:00:80:00:03:00:F4:01:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 19281    (42 ) event_pckt->evt=255 (event code)
+DBUG 19286    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 19291    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 19294    (3  ) current production ran a rule
+DBUG 19297    (3  ) ----------------------------------------------------------
+DBUG 19300    (3  ) pckt: 04:FF:06:10:0C:03:08:01:00:13:00:FF:FF:0A:18:0A:00:0A:00:01:18:0B:00:12:00:F0:FF:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 19342    (42 ) event_pckt: FF:06:10:0C:03:08:01:00:13:00:FF:FF:0A:18:0A:00:0A:00:01:18:0B:00:12:00:F0:FF:00:28:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 19384    (42 ) event_pckt->evt=255 (event code)
+DBUG 19389    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 19394    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 19397    (3  ) current production finished
+starting discovery of characteristics
+DBUG 19403    (6  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 19446    (43 ) ----------------------------------------------------------
+DBUG 19447    (1  ) pckt: 04:3E:0A:03:00:03:08:60:00:03:00:F4:01:80:00:03:00:F4:01:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 19489    (42 ) event_pckt: 3E:0A:03:00:03:08:60:00:03:00:F4:01:80:00:03:00:F4:01:23:00:50:2A:18:00:02:19:00:25:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 19531    (42 ) event_pckt->evt=62 (event code)
+DBUG 19536    (5  ) EVT_LE_META_EVENT
+DBUG 19539    (3  ) EVT_LE_CONN_UPDATE_COMPLETE
+DBUG 19542    (3  ) current production ran a rule
+DBUG 19566    (24 ) ----------------------------------------------------------
+DBUG 19567    (1  ) pckt: 04:FF:1B:06:0C:03:08:16:07:14:00:02:15:00:23:2A:16:00:02:17:00:24:2A:18:00:02:19:00:25:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 19609    (42 ) read_by_type_resp->conn_handle=2051 (evt_att_read_by_type_resp for handle)
+DBUG 19614    (5  ) attribute list:
+DBUG 19617    (3  ) attribute attr_start size: 7, Bytes = 14:00:02:15:00:23:2A
+DBUG 19634    (17 ) attribute attr_start size: 7, Bytes = 16:00:02:17:00:24:2A
+DBUG 19651    (17 ) attribute attr_start size: 7, Bytes = 18:00:02:19:00:25:2A
+DBUG 19668    (17 ) attribute attr_start size: 7, Bytes = FD:D5:01:21:95:DC:AB
+DBUG 19685    (17 ) current production ran a rule
+DBUG 19806    (121) ----------------------------------------------------------
+DBUG 19807    (1  ) pckt: 04:FF:1B:06:0C:03:08:16:07:1A:00:02:1B:00:26:2A:1C:00:02:1D:00:27:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 19849    (42 ) read_by_type_resp->conn_handle=2051 (evt_att_read_by_type_resp for handle)
+DBUG 19854    (5  ) attribute list:
+DBUG 19857    (3  ) attribute attr_start size: 7, Bytes = 1A:00:02:1B:00:26:2A
+DBUG 19874    (17 ) attribute attr_start size: 7, Bytes = 1C:00:02:1D:00:27:2A
+DBUG 19891    (17 ) attribute attr_start size: 7, Bytes = 1E:00:02:1F:00:28:2A
+DBUG 19908    (17 ) attribute attr_start size: 7, Bytes = 6F:2E:67:6C:2F:50:48
+DBUG 19925    (17 ) current production ran a rule
+DBUG 20046    (121) ----------------------------------------------------------
+DBUG 20047    (1  ) pckt: 04:FF:1B:06:0C:03:08:16:07:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 20089    (42 ) read_by_type_resp->conn_handle=2051 (evt_att_read_by_type_resp for handle)
+DBUG 20094    (5  ) attribute list:
+DBUG 20097    (3  ) attribute attr_start size: 7, Bytes = 20:00:02:21:00:29:2A
+DBUG 20114    (17 ) attribute attr_start size: 7, Bytes = 22:00:02:23:00:2A:2A
+DBUG 20131    (17 ) attribute attr_start size: 7, Bytes = 24:00:02:25:00:50:2A
+DBUG 20148    (17 ) attribute attr_start size: 7, Bytes = FD:D5:01:21:95:DC:AB
+DBUG 20165    (17 ) current production ran a rule
+DBUG 20286    (121) ----------------------------------------------------------
+DBUG 20286    (0  ) pckt: 04:FF:09:11:0C:03:08:04:08:25:00:0A:1B:00:26:2A:1C:00:02:1D:00:27:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 20328    (42 ) event_pckt: FF:09:11:0C:03:08:04:08:25:00:0A:1B:00:26:2A:1C:00:02:1D:00:27:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 20370    (42 ) event_pckt->evt=255 (event code)
+DBUG 20375    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 20380    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 20383    (3  ) current production ran a rule
+DBUG 20386    (3  ) ----------------------------------------------------------
+DBUG 20389    (3  ) pckt: 04:FF:06:10:0C:03:08:01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 20431    (42 ) event_pckt: FF:06:10:0C:03:08:01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 20473    (42 ) event_pckt->evt=255 (event code)
+DBUG 20478    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 20483    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 20486    (3  ) current production finished
+starting discovery of characteristics
+DBUG 20492    (6  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 21006    (514) ----------------------------------------------------------
+DBUG 21006    (0  ) pckt: 04:FF:09:11:0C:03:08:04:08:0A:00:0A:1B:00:26:2A:1C:00:02:1D:00:27:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 21048    (42 ) event_pckt: FF:09:11:0C:03:08:04:08:0A:00:0A:1B:00:26:2A:1C:00:02:1D:00:27:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 21090    (42 ) event_pckt->evt=255 (event code)
+DBUG 21095    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 21100    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 21103    (3  ) current production ran a rule
+DBUG 21106    (3  ) ----------------------------------------------------------
+DBUG 21109    (3  ) pckt: 04:FF:06:10:0C:03:08:01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 21151    (42 ) event_pckt: FF:06:10:0C:03:08:01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 21193    (42 ) event_pckt->evt=255 (event code)
+DBUG 21198    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 21203    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 21206    (3  ) current production finished
+terminating connection
+DBUG 21212    (6  ) Terminate Connection succeeded.
+action terminate_connection returned true
+DBUG 21606    (394) ----------------------------------------------------------
+DBUG 21607    (1  ) pckt: 04:05:04:00:03:08:16:04:08:0A:00:0A:1B:00:26:2A:1C:00:02:1D:00:27:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 21648    (41 ) current production finished
+DBUG 21651    (3  ) disconnection_complete_pckt->status=C0 (Disconnection unsuccessful.)
+gatt_walk_protocol ended
+DBUG 21657    (6  ) creating connection for (*addr) Address = DD:33:0A:11:1B:AC
+DBUG 21673    (16 ) Create Connection succeeded.
+DBUG 21674    (1  ) connection for (*addr) Address = DD:33:0A:11:1B:AC
+action start_connection returned true
+DBUG 22106    (432) ----------------------------------------------------------
+DBUG 22107    (1  ) pckt: 04:FF:04:07:04:40:00:01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 22149    (42 ) event_pckt: FF:04:07:04:40:00:01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 22191    (42 ) event_pckt->evt=255 (event code)
+DBUG 22196    (5  ) evt_blue->ecode=0407 (ecode for HCI events)
+DBUG 22201    (5  ) EVT_BLUE_GAP_PROCEDURE_COMPLETE
+DBUG 22204    (3  ) GAP_DIRECT_CONNECTION_ESTABLISHMENT_PROC complete
+DBUG 22207    (3  ) procedure_complete_pckt->status=00 (status code from procedure complete)
+DBUG 22212    (5  ) procedure_complete_pckt->data: 01:00:20:00:02:21:00:29:2A:22:00:02:23:00:2A:2A:24:00:02:25:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:E7:54:5F:E5:B6:00:
+DBUG 22254    (42 ) current production ran a rule
+DBUG 22257    (3  ) ----------------------------------------------------------
+DBUG 22260    (3  ) pckt: 04:3E:13:01:00:04:08:00:00:AC:1B:11:0A:33:DD:28:00:00:00:3C:00:00:2A:1E:00:02:1F:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 22302    (42 ) connection created successfully
+DBUG 22305    (3  ) *connection_handle=2052 (returned by get_connection_handle)
+DBUG 22310    (5  ) current production finished
+starting discovery primary services
+DBUG 22315    (5  ) discover all primary services succeeded.
+action discover_primary_services returned true
+DBUG 22386    (71 ) ----------------------------------------------------------
+DBUG 22387    (1  ) pckt: 04:FF:18:0A:0C:04:08:13:06:01:00:09:00:00:18:0A:00:0D:00:01:18:0E:00:11:00:0F:18:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 22429    (42 ) read_by_group_type_response->conn_handle=2052 (read_by_group_type_response for handle)
+DBUG 22434    (5  ) attribute list:
+DBUG 22437    (3  ) attribute attr_start size: 6, Bytes = 01:00:09:00:00:18
+DBUG 22452    (15 ) attribute attr_start size: 6, Bytes = 0A:00:0D:00:01:18
+DBUG 22467    (15 ) attribute attr_start size: 6, Bytes = 0E:00:11:00:0F:18
+DBUG 22482    (15 ) attribute attr_start size: 6, Bytes = :50:2A:FD:D5:01
+DBUG 22534    (52 ) current production ran a rule
+DBUG 22537    (3  ) ----------------------------------------------------------
+DBUG 22540    (3  ) pckt: 04:FF:18:0A:0C:04:08:13:06:12:00:1C:00:0A:18:1D:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 22582    (42 ) read_by_group_type_response->conn_handle=2052 (read_by_group_type_response for handle)
+DBUG 22587    (5  ) attribute list:
+DBUG 22590    (3  ) attribute attr_start size: 6, Bytes = 12:00:1C:00:0A:18
+DBUG 22605    (15 ) attribute attr_start size: 6, Bytes = 1D:00:22:00:A0:FE
+DBUG 22620    (15 ) attribute attr_start size: 6, Bytes = 23:00:FF:FF:59:FE
+DBUG 22635    (15 ) attribute attr_start size: 6, Bytes = 00:28:2A:6F:2E:67
+DBUG 22650    (15 ) current production ran a rule
+DBUG 22653    (3  ) ----------------------------------------------------------
+DBUG 22656    (3  ) pckt: 04:FF:09:11:0C:04:08:04:10:24:00:0A:00:00:18:0A:00:0D:00:01:18:0E:00:11:00:0F:18:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 22698    (42 ) event_pckt: FF:09:11:0C:04:08:04:10:24:00:0A:00:00:18:0A:00:0D:00:01:18:0E:00:11:00:0F:18:00:50:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 22740    (42 ) event_pckt->evt=255 (event code)
+DBUG 22745    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 22750    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 22753    (3  ) current production ran a rule
+DBUG 22756    (3  ) ----------------------------------------------------------
+DBUG 22759    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:12:00:1C:00:0A:18:1D:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 22801    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:12:00:1C:00:0A:18:1D:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 22843    (42 ) event_pckt->evt=255 (event code)
+DBUG 22848    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 22853    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 22856    (3  ) current production finished
+starting discovery of characteristics
+DBUG 22861    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 22936    (75 ) ----------------------------------------------------------
+DBUG 22937    (1  ) pckt: 04:FF:1B:06:0C:04:08:16:07:02:00:0A:03:00:00:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 22979    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 22984    (5  ) attribute list:
+DBUG 22987    (3  ) attribute attr_start size: 7, Bytes = 02:00:0A:03:00:00:2A
+DBUG 23004    (17 ) attribute attr_start size: 7, Bytes = 04:00:02:05:00:01:2A
+DBUG 23021    (17 ) attribute attr_start size: 7, Bytes = 06:00:02:07:00:04:2A
+DBUG 23038    (17 ) attribute attr_start size: 7, Bytes = FD:D5:01:21:95:DC:AB
+DBUG 23055    (17 ) current production ran a rule
+DBUG 23058    (3  ) ----------------------------------------------------------
+DBUG 23061    (3  ) pckt: 04:FF:0D:06:0C:04:08:08:07:08:00:02:09:00:A6:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 23103    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 23108    (5  ) attribute list:
+DBUG 23111    (3  ) attribute attr_start size: 7, Bytes = 08:00:02:09:00:A6:2A
+DBUG 23128    (17 ) attribute attr_start size: 7, Bytes = 00:22:00:A0:FE:23:00
+DBUG 23145    (17 ) current production ran a rule
+DBUG 23148    (3  ) ----------------------------------------------------------
+DBUG 23151    (3  ) pckt: 04:FF:09:11:0C:04:08:04:08:09:00:0A:03:00:00:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 23193    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:09:00:0A:03:00:00:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 23235    (42 ) event_pckt->evt=255 (event code)
+DBUG 23240    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 23245    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 23248    (3  ) current production ran a rule
+DBUG 23251    (3  ) ----------------------------------------------------------
+DBUG 23254    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:08:00:02:09:00:A6:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 23296    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:08:00:02:09:00:A6:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 23338    (42 ) event_pckt->evt=255 (event code)
+DBUG 23343    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 23348    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 23351    (3  ) current production finished
+starting discovery of characteristics
+DBUG 23356    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 23436    (80 ) ----------------------------------------------------------
+DBUG 23437    (1  ) pckt: 04:FF:0D:06:0C:04:08:08:07:0B:00:20:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 23479    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 23484    (5  ) attribute list:
+DBUG 23487    (3  ) attribute attr_start size: 7, Bytes = 0B:00:20:0C:00:05:2A
+DBUG 23504    (17 ) attribute attr_start size: 7, Bytes = 04:00:02:05:00:01:2A
+DBUG 23521    (17 ) current production ran a rule
+DBUG 23536    (15 ) ----------------------------------------------------------
+DBUG 23537    (1  ) pckt: 04:FF:09:11:0C:04:08:04:08:0C:00:0A:09:00:A6:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 23579    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:0C:00:0A:09:00:A6:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 23621    (42 ) event_pckt->evt=255 (event code)
+DBUG 23626    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 23631    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 23634    (3  ) current production ran a rule
+DBUG 23637    (3  ) ----------------------------------------------------------
+DBUG 23640    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:0B:00:20:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 23682    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:0B:00:20:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 23724    (42 ) event_pckt->evt=255 (event code)
+DBUG 23729    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 23734    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 23737    (3  ) current production finished
+starting discovery of characteristics
+DBUG 23742    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 23835    (93 ) ----------------------------------------------------------
+DBUG 23837    (2  ) pckt: 04:FF:0D:06:0C:04:08:08:07:0F:00:12:10:00:19:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 23879    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 23884    (5  ) attribute list:
+DBUG 23887    (3  ) attribute attr_start size: 7, Bytes = 0F:00:12:10:00:19:2A
+DBUG 23904    (17 ) attribute attr_start size: 7, Bytes = 00:22:00:A0:FE:23:00
+DBUG 23921    (17 ) current production ran a rule
+DBUG 23936    (15 ) ----------------------------------------------------------
+DBUG 23937    (1  ) pckt: 04:FF:09:11:0C:04:08:04:08:10:00:0A:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 23979    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:10:00:0A:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 24021    (42 ) event_pckt->evt=255 (event code)
+DBUG 24026    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 24031    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 24034    (3  ) current production ran a rule
+DBUG 24037    (3  ) ----------------------------------------------------------
+DBUG 24040    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:0F:00:12:10:00:19:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 24082    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:0F:00:12:10:00:19:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 24124    (42 ) event_pckt->evt=255 (event code)
+DBUG 24129    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 24134    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 24137    (3  ) current production finished
+starting discovery of characteristics
+DBUG 24142    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 24235    (93 ) ----------------------------------------------------------
+DBUG 24236    (1  ) pckt: 04:FF:09:11:0C:04:08:04:08:00:50:0A:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 24278    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:00:50:0A:0C:00:05:2A:04:00:02:05:00:01:2A:06:00:02:07:00:04:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 24320    (42 ) event_pckt->evt=255 (event code)
+DBUG 24325    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 24330    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 24333    (3  ) current production ran a rule
+DBUG 24336    (3  ) ----------------------------------------------------------
+DBUG 24339    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:0F:00:12:10:00:19:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 24381    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:0F:00:12:10:00:19:2A:00:22:00:A0:FE:23:00:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 24423    (42 ) event_pckt->evt=255 (event code)
+DBUG 24428    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 24433    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 24436    (3  ) current production finished
+starting discovery of characteristics
+DBUG 24441    (5  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 24536    (95 ) ----------------------------------------------------------
+DBUG 24537    (1  ) pckt: 04:FF:1B:06:0C:04:08:16:07:13:00:02:14:00:29:2A:15:00:02:16:00:24:2A:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 24579    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 24584    (5  ) attribute list:
+DBUG 24587    (3  ) attribute attr_start size: 7, Bytes = 13:00:02:14:00:29:2A
+DBUG 24604    (17 ) attribute attr_start size: 7, Bytes = 15:00:02:16:00:24:2A
+DBUG 24621    (17 ) attribute attr_start size: 7, Bytes = 17:00:02:18:00:27:2A
+DBUG 24638    (17 ) attribute attr_start size: 7, Bytes = FD:D5:01:21:95:DC:AB
+DBUG 24655    (17 ) current production ran a rule
+DBUG 24658    (3  ) ----------------------------------------------------------
+DBUG 24661    (3  ) pckt: 04:FF:14:06:0C:04:08:0F:07:19:00:02:1A:00:26:2A:1B:00:02:1C:00:23:2A:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 24703    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 24708    (5  ) attribute list:
+DBUG 24711    (3  ) attribute attr_start size: 7, Bytes = 19:00:02:1A:00:26:2A
+DBUG 24728    (17 ) attribute attr_start size: 7, Bytes = 1B:00:02:1C:00:23:2A
+DBUG 24745    (17 ) attribute attr_start size: 7, Bytes = FF:FF:59:FE:00:28:2A
+DBUG 24762    (17 ) current production ran a rule
+DBUG 24765    (3  ) ----------------------------------------------------------
+DBUG 24768    (3  ) pckt: 04:FF:09:11:0C:04:08:04:08:1C:00:0A:14:00:29:2A:15:00:02:16:00:24:2A:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 24810    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:1C:00:0A:14:00:29:2A:15:00:02:16:00:24:2A:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 24852    (42 ) event_pckt->evt=255 (event code)
+DBUG 24857    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 24862    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 24865    (3  ) current production ran a rule
+DBUG 24868    (3  ) ----------------------------------------------------------
+DBUG 24871    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:19:00:02:1A:00:26:2A:1B:00:02:1C:00:23:2A:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 24913    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:19:00:02:1A:00:26:2A:1B:00:02:1C:00:23:2A:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 24955    (42 ) event_pckt->evt=255 (event code)
+DBUG 24960    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 24965    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 24968    (3  ) current production finished
+starting discovery of characteristics
+DBUG 24974    (6  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 25035    (61 ) ----------------------------------------------------------
+DBUG 25036    (1  ) pckt: 04:FF:14:06:0C:04:08:0F:07:1E:00:04:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 25078    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 25083    (5  ) attribute list:
+DBUG 25086    (3  ) attribute attr_start size: 7, Bytes = 1E:00:04:1F:00:A1:FE
+DBUG 25103    (17 ) attribute attr_start size: 7, Bytes = 20:00:12:21:00:A2:FE
+DBUG 25120    (17 ) attribute attr_start size: 7, Bytes = 17:00:02:18:00:27:2A
+DBUG 25137    (17 ) current production ran a rule
+DBUG 25140    (3  ) ----------------------------------------------------------
+DBUG 25143    (3  ) pckt: 04:FF:09:11:0C:04:08:04:08:21:00:0A:1A:00:26:2A:1B:00:02:1C:00:23:2A:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 25185    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:21:00:0A:1A:00:26:2A:1B:00:02:1C:00:23:2A:FF:FF:59:FE:00:28:2A:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 25227    (42 ) event_pckt->evt=255 (event code)
+DBUG 25232    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 25237    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 25240    (3  ) current production ran a rule
+DBUG 25243    (3  ) ----------------------------------------------------------
+DBUG 25246    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:1E:00:04:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 25288    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:1E:00:04:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 25330    (42 ) event_pckt->evt=255 (event code)
+DBUG 25335    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 25340    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 25343    (3  ) current production finished
+starting discovery of characteristics
+DBUG 25349    (6  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 25436    (87 ) ----------------------------------------------------------
+DBUG 25436    (0  ) pckt: 04:FF:1B:06:0C:04:08:16:15:24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 25478    (42 ) read_by_type_resp->conn_handle=2052 (evt_att_read_by_type_resp for handle)
+DBUG 25483    (5  ) attribute list:
+DBUG 25486    (3  ) attribute attr_start size: 21, Bytes = 24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E
+DBUG 25531    (45 ) attribute attr_start size: 21, Bytes = 6F:2E:67:6C:2F:50:48:4E:53:64:6D:CE:54:5F:E5:BB:00:00:00:00:00
+DBUG 25576    (45 ) current production ran a rule
+DBUG 25579    (3  ) ----------------------------------------------------------
+DBUG 25582    (3  ) pckt: 04:FF:09:11:0C:04:08:04:08:25:00:0A:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 25624    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:25:00:0A:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 25666    (42 ) event_pckt->evt=255 (event code)
+DBUG 25671    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 25676    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 25679    (3  ) current production ran a rule
+DBUG 25682    (3  ) ----------------------------------------------------------
+DBUG 25685    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 25727    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 25769    (42 ) event_pckt->evt=255 (event code)
+DBUG 25774    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 25779    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 25782    (3  ) current production finished
+starting discovery of characteristics
+DBUG 25788    (6  ) discover all characteristics succeeded.
+action discover_characteristcs returned true
+DBUG 25885    (97 ) ----------------------------------------------------------
+DBUG 25886    (1  ) pckt: 04:FF:09:11:0C:04:08:04:08:00:28:0A:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 25928    (42 ) event_pckt: FF:09:11:0C:04:08:04:08:00:28:0A:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:33:
+DBUG 25970    (42 ) event_pckt->evt=255 (event code)
+DBUG 25975    (5  ) evt_blue->ecode=0C11 (ecode for HCI events)
+DBUG 25980    (5  ) EVT_BLUE_GATT_ERROR_RESP
+DBUG 25983    (3  ) current production ran a rule
+DBUG 25986    (3  ) ----------------------------------------------------------
+DBUG 25989    (3  ) pckt: 04:FF:06:10:0C:04:08:01:00:24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 26031    (42 ) event_pckt: FF:06:10:0C:04:08:01:00:24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E:6F:2E:67:6C:2F:50:48:4E:53:64:6D:
+DBUG 26073    (42 ) event_pckt->evt=255 (event code)
+DBUG 26078    (5  ) evt_blue->ecode=0C10 (ecode for HCI events)
+DBUG 26083    (5  ) EVT_BLUE_GATT_PROCEDURE_COMPLETE
+DBUG 26086    (3  ) current production finished
+terminating connection
+DBUG 26092    (6  ) Terminate Connection succeeded.
+action terminate_connection returned true
+DBUG 26135    (43 ) ----------------------------------------------------------
+DBUG 26136    (1  ) pckt: 04:05:04:00:04:08:16:04:08:00:28:0A:1F:00:A1:FE:20:00:12:21:00:A2:FE:17:00:02:18:00:27:2A:FD:D5:01:21:95:DC:AB:55:68:45:
+DBUG 26178    (42 ) current production finished
+DBUG 26181    (3  ) disconnection_complete_pckt->status=C0 (Disconnection unsuccessful.)
+gatt_walk_protocol ended
+Devices, services, and characteristics found
+00 00 00 
+01 01 00 
+02 01 00 
+03 01 00 
+04 01 00 
+05 03 01 
+06 03 01 
+07 03 01 
+08 03 02 
+09 03 02 
+10 03 04 
+11 03 04 
+12 00 00 
+13 01 12 
+14 01 12 
+15 01 12 
+16 01 12 
+17 01 12 
+18 03 13 
+19 03 13 
+20 03 13 
+21 03 13 
+22 03 13 
+23 03 13 
+24 03 14 
+25 03 14 
+26 03 15 
+27 03 15 
+28 03 15 
+29 03 17 
+30 03 17 
+31 03 17 
+32 03 17 
+33 03 17 
+34 03 17 
+35 03 17 
+36 03 17 
+37 03 17 
+38 03 17 
+39 03 17 
+40 00 00 
+41 01 40 
+42 01 40 
+43 03 41 
+44 03 41 
+45 03 41 
+46 03 41 
+47 03 41 
+48 03 41 
+49 03 41 
+50 03 41 
+51 03 41 
+52 03 41 
+53 03 41 
+54 03 41 
+55 00 00 
+56 01 55 
+57 01 55 
+58 01 55 
+59 01 55 
+60 01 55 
+61 01 55 
+62 01 55 
+63 01 55 
+64 03 56 
+65 03 56 
+66 03 56 
+67 03 56 
+68 03 56 
+69 03 56 
+70 03 57 
+71 03 57 
+72 03 58 
+73 03 58 
+74 03 60 
+75 03 60 
+76 03 60 
+77 03 60 
+78 03 60 
+79 03 60 
+80 03 60 
+81 03 61 
+82 03 61 
+83 03 61 
+84 03 62 
+85 03 62 
+device: 14:99:e2:0d:04:0C
+   primary_service(1) last record (11) uuid 1800 
+      characteristic: uuid 0000 
+      characteristic: uuid 0100 
+      characteristic: uuid 3b2c 
+   primary_service(2) last record (11) uuid 1801 
+      characteristic: uuid 0500 
+      characteristic: uuid 91a5 
+   primary_service(3) last record (11) uuid d223 
+   primary_service(4) last record (11) uuid d0611e78bbb44591a5f8487910ae4366 
+      characteristic: uuid 4900 
+device: 60:ab:d2:64:d8:44
+   primary_service(13) last record (39) uuid febe 
+      characteristic: uuid 3300 
+      characteristic: uuid dc95 
+      characteristic: uuid 9100 
+      characteristic: uuid 502f 
+      characteristic: uuid 8d00 
+      characteristic: uuid dc95 
+   primary_service(14) last record (39) uuid 1801 
+      characteristic: uuid 0500 
+      characteristic: uuid 99d1 
+   primary_service(15) last record (39) uuid 1800 
+      characteristic: uuid 0000 
+      characteristic: uuid 0100 
+      characteristic: uuid 4bfb 
+   primary_service(16) last record (39) uuid 01d5 
+   primary_service(17) last record (39) uuid 180a 
+      characteristic: uuid 2900 
+      characteristic: uuid 2400 
+      characteristic: uuid 2500 
+      characteristic: uuid 502f 
+      characteristic: uuid 2700 
+      characteristic: uuid 2600 
+      characteristic: uuid 2800 
+      characteristic: uuid dc95 
+      characteristic: uuid 2300 
+      characteristic: uuid 5000 
+device: dc:0d:30:03:2f:95
+   primary_service(41) last record (54) uuid 180a 
+      characteristic: uuid 2300 
+      characteristic: uuid 2400 
+      characteristic: uuid 2500 
+      characteristic: uuid dc95 
+      characteristic: uuid 2600 
+      characteristic: uuid 2700 
+      characteristic: uuid 2800 
+      characteristic: uuid 502f 
+      characteristic: uuid 2900 
+      characteristic: uuid 2a00 
+      characteristic: uuid 5000 
+   primary_service(42) last record (54) uuid 1801 
+device: dd:33:0a:11:1b:AC
+   primary_service(56) last record (85) uuid 1800 
+      characteristic: uuid 0000 
+      characteristic: uuid 0100 
+      characteristic: uuid 0400 
+      characteristic: uuid dc95 
+      characteristic: uuid a600 
+      characteristic: uuid 23fe 
+   primary_service(57) last record (85) uuid 1801 
+      characteristic: uuid 0500 
+      characteristic: uuid 0100 
+   primary_service(58) last record (85) uuid 180f 
+      characteristic: uuid 1900 
+      characteristic: uuid 23fe 
+   primary_service(59) last record (85) uuid 01d5 
+   primary_service(60) last record (85) uuid 180a 
+      characteristic: uuid 2900 
+      characteristic: uuid 2400 
+      characteristic: uuid 2700 
+      characteristic: uuid dc95 
+      characteristic: uuid 2600 
+      characteristic: uuid 2300 
+      characteristic: uuid 2800 
+   primary_service(61) last record (85) uuid fea0 
+      characteristic: uuid a100 
+      characteristic: uuid a200 
+      characteristic: uuid 2700 
+   primary_service(62) last record (85) uuid fe59 
+      characteristic: uuid 5000 
+   primary_service(63) last record (85) uuid 672e 
+main_steps ended
+DBUG 27135    (954) ----------------------------------------------------------
+DBUG 27138    (3  ) pckt: 04:FF:03:01:00:01:08:01:00:24:00:28:25:00:50:EA:DA:30:88:83:B8:9F:60:4F:15:F3:03:00:C9:8E:6F:2E:67:6C:2F:50:48:4E:53:64:
+DBUG 27180    (42 ) HAL initialized or reset
+DBUG 27183    (3  ) Normal startup.
+DBUG 27186    (3  ) current production finished
+no current protocol to call
